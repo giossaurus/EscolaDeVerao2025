@@ -1,0 +1,13 @@
+[project]
+name = "dados-sinteticos"
+version = "0.1.0"
+description = "Aula de dados sintéticos"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "instructor>=1.7.2",
+    "ipykernel>=6.29.5",
+    "mistralai>=1.5.0",
+    "pydantic>=2.10.6",
+    "python-dotenv>=1.0.1",
+]
